@@ -1,5 +1,11 @@
 # ecommerce-api
 
+REST API desarrollado con FastAPI para un E-commerce.
+
+## Requerimientos
+
+[Python 3.11+](https://www.python.org/)
+
 ## Comandos
 
 ```bash
@@ -40,3 +46,4 @@ pip install -r requirements.txt
 # Ejeuctar el proyecto
 py main.py
 ```
+
